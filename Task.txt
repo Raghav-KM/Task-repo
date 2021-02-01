@@ -1,2 +1,8 @@
 Raghav
 2020A7PS1700G
+
+Steps ->
+1. Clone the git REPO
+2. git add .
+3. git commit -m "Message"
+4. git push -u origin master
